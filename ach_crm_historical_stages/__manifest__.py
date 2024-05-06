@@ -7,6 +7,7 @@
     'support': 'developmentalchemygx@gmail.com',
     'category': 'Sales',
     'version': '1.1',
+    'license': 'LGPL-3',
     'price': 5.00,
     'currency': 'USD',
     'depends': ['base','crm'],
