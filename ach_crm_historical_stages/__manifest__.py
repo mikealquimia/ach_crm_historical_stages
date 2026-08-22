@@ -6,7 +6,7 @@
     'author': "ACH Alchemical Code",
     'support': 'developmentalchemygx@gmail.com',
     'category': 'Sales',
-    'version': '1.1',
+    'version': '17.0.1.1.0',
     'license': 'LGPL-3',
     'price': 5.00,
     'currency': 'USD',
