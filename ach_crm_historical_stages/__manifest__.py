@@ -3,7 +3,7 @@
     'name': "History of stages in CRM",
     'summary': "Shows historical changes in the stages of a CRM opportunity",
     'description': """Shows historical changes in the stages of a CRM opportunity""",
-    'author': "ACH",
+    'author': "ACH Alchemical Code",
     'support': 'developmentalchemygx@gmail.com',
     'category': 'Sales',
     'version': '1.1',
