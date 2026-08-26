@@ -15,6 +15,6 @@
         'security/ir.model.access.csv',
         'views/views.xml',
     ],
-    'images': ['static/description/banner.gif'],
+    'images': ['static/description/banner.png'],
 }
 
