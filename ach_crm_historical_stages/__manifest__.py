@@ -8,7 +8,7 @@
     'category': 'Sales',
     'version': '16.0.1.1.0',
     'license': 'LGPL-3',
-    'price': 5.00,
+    'price': 10.00,
     'currency': 'USD',
     'depends': ['base','crm'],
     'data': [
